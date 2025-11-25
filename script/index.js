@@ -3,10 +3,8 @@
 //The function should repeatedly prompt the user to guess the number until the correct number is guessed.  
 //Use a while loop to keep asking the user for input until they guess correctly.   
 //Provide feedback if the guess is too high or too low.  
-
-
-
 // Call the function to start the game
+
 speletgissasiffran();  
 
 function speletgissasiffran() {
