@@ -4,7 +4,6 @@
 //Use a while loop to keep asking the user for input until they guess correctly.   
 //Provide feedback if the guess is too high or too low.  
 // Call the function to start the game
-
 speletgissasiffran();  
 
 function speletgissasiffran() {
@@ -20,8 +19,7 @@ function speletgissasiffran() {
             alert("För högt! Prova igen!");
         } else if (användarensGissning === slumpmässigtNummer) {
             alert("Bra jobbat! Du har gissat rätt nummer! Grattis!");
-        } else {
-            alert("Vänligen knappa in ett giltigt nummer!");
+    
         }
     }
 }
